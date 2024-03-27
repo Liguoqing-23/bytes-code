@@ -1,0 +1,8 @@
+{
+  "name": "@bytes-code/utils",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Xavier & MYQ",
+  "main": "./src/index.ts",
+  "license": "MIT"
+}
